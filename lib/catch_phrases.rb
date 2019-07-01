@@ -11,5 +11,9 @@ def toadstool
   puts status
 end
 
+def link
+  phrase = 
+end
+
 mario
 toadstool
